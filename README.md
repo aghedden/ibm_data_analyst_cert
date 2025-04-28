@@ -1,5 +1,5 @@
 # ibm_data_analyst_cert: IBM Data Analyst Professional Certificate
-This repository includes a selection of later assignments and projects completed as part of earning my **IBM Data Analyst Professional Certificate**. This certification involved successfully finishing 11 courses that covered a variety of languages (Python, Excel, and SQL) and tools (such as Excel spreadsheets, Python, Pandas, Numpy, Jupyter Notebooks, and Cognos Analytics) commonly used by data analysts.
+This repository includes a selection of some of the more advanced assignments and projects completed as part of earning my **IBM Data Analyst Professional Certificate**. This certification involved successfully finishing 11 courses that covered a variety of languages (Python, Excel, and SQL) and tools (such as Excel spreadsheets, Python, Pandas, Numpy, Jupyter Notebooks, and Cognos Analytics) commonly used by data analysts.
 
 
 ## Projects
